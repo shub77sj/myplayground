@@ -148,8 +148,8 @@ export default class Speech2Text extends Component {
 
 const styles = StyleSheet.create({
     button: {
-        width: 50,
-        height: 50,
+        width: 100,
+        height: 100,
     },
     container: {
         flex: 1,
